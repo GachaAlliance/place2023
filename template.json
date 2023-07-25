@@ -56,13 +56,17 @@
       ],
       "x": 2787,
       "y": 1366
-      }
+      },
+    {
+      "name": "Miuna Artwork",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132203469571362826/1133495570238013520/nCZYlfbmSA1mZC0fKr5E.png"
+      ],
+      "x": 1423,
+      "y": 1868
+    }
   ],
   "whitelist": [
-    {
-      "name": "GFL + VA-11 Hall-A",
-      "url": "https://gist.githubusercontent.com/Eremeir/22bac3c2e578c464304922204a0febd2/raw"
-    }
   ],
   "blacklist": [
     {
