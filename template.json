@@ -12,11 +12,51 @@
     {
       "name": "Secret VA-11 Hall-A project, please erase your memories of reading this",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131597828561584188/1133489212314882068/nteeJ0JToh5RMuqR52s3.png"
+        "https://cdn.discordapp.com/attachments/1087966173703966790/1133490854951129239/B1wTNqjZEZUfQZnFopHT.png"
       ],
       "x": 1351,
       "y": 1926
-    }
+    },
+    {
+      "name": "VA-11 Hall-A's Flaming 🗿",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1087966173703966790/1133490855446057172/opVH0ufHgiL1zbI2w5v4.png"
+      ],
+      "x": 1381,
+      "y": 1934
+    },
+    {
+      "name": "VA-11 Hall-A Logo",
+      "sources": [
+          "https://cdn.discordapp.com/attachments/1087966173703966790/1133490853999022101/m6TMnqtgtSIf5StvdU7o.png"
+      ],
+      "x": 1391,
+      "y": 1953
+    },
+    {
+      "name": "GFL Logo",
+      "sources": [
+          "https://cdn.discordapp.com/attachments/1087966173703966790/1133490854238105750/LCVDQFJjMVK3kMWoxkp7.png"
+      ],
+      "x": 1391,
+      "y": 1962
+    },
+    {
+      "name": "Neural Cloud Logo",
+      "sources": [
+          "https://cdn.discordapp.com/attachments/1087966173703966790/1133490854686883951/dV3Juag4zvN8dPqixMor.png"
+      ],
+      "x": 1391,
+      "y": 1938
+    },
+    {
+      "name": "UMP45 (Touhou Hijack)",
+      "sources": [
+          "https://cdn.discordapp.com/attachments/1087966173703966790/1133490855202783337/wLtTjBNQu6tHSZNwfZdb.png"
+      ],
+      "x": 2787,
+      "y": 1366
+      }
   ],
   "whitelist": [
     {
