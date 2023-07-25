@@ -42,14 +42,6 @@
       "y": 850
     },
     {
-      "name": "PGR",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131609689482854420/1132829914148642927/150_Sem_Titulo_20230723205422.png"
-      ],
-      "x": 468,
-      "y": 1252
-    },
-    {
       "name": "Cygames Duet",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131263002465808494/1132861368173875260/Day_1_small.png"
@@ -112,14 +104,6 @@
       ],
       "x": 1351,
       "y": 1926
-    },
-    {
-      "name": "PGR",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131609689482854420/1133070149239443476/151_Sem_Titulo_20230724131453.png"
-      ],
-      "x": 1297,
-      "y": 1956
     },
     {
       "name": "NandaVT (Miuna Ally)",
