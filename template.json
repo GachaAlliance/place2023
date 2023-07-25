@@ -28,10 +28,10 @@
     {
       "name": "Texas",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131812850483073104/1132530413852704808/pixil-frame-0.png"
+        "https://media.discordapp.net/attachments/1131812850483073104/1133302658141266070/pixil-frame-01.png?width=53&height=27"
       ],
-      "x": 807,
-      "y": 1600
+      "x": 2816,
+      "y": 32
     },
     {
       "name": "Epic Seven",
@@ -136,6 +136,14 @@
       ],
       "x": 1364,
       "y": 1951
+    },
+    {
+      "name": "BA Kuroko",
+      "sources": [
+        "https://media.discordapp.net/attachments/1131812850483073104/1133299077371658300/Kuroko_emojis.png?w"
+      ],
+      "x": 2863,
+      "y": 0
     }
   ],
   "whitelist": [
