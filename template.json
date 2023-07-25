@@ -144,6 +144,14 @@
       ],
       "x": 881,
       "y": 1245
+    },
+    {
+      "name": "VA-11 Hall-A's Flaming Moai",
+      "sources": [
+        "https://media.discordapp.net/attachments/1133415923450138714/1133417253036114011/image.png"
+      ],
+      "x": 1382,
+      "y": 1936
     }
   ],
   "whitelist": [
