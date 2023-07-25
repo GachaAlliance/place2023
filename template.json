@@ -152,10 +152,6 @@
       "url": "https://charity.pxls.space/p3ace"
     },
     {
-      "name": "PlaceStart",
-      "url": "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart.json"
-    },
-    {
       "name": "GFL + VA-11 Hall-A",
       "url": "https://gist.githubusercontent.com/Eremeir/22bac3c2e578c464304922204a0febd2/raw"
     },
@@ -194,10 +190,6 @@
     {
       "name": "Türkiye",
       "url": "https://kn0.dev/porcay.json"
-    },
-    {
-      "name": "PlaceEU",
-      "url": "https://raw.githubusercontent.com/Malormar/PlaceEU/main/template.json"
     },
     {
       "name": "Indie Alliance V2",
