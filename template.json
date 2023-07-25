@@ -148,10 +148,6 @@
   ],
   "whitelist": [
     {
-      "name": "P3ACE",
-      "url": "https://charity.pxls.space/p3ace"
-    },
-    {
       "name": "GFL + VA-11 Hall-A",
       "url": "https://gist.githubusercontent.com/Eremeir/22bac3c2e578c464304922204a0febd2/raw"
     },
